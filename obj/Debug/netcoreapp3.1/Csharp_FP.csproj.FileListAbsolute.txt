@@ -1,0 +1,11 @@
+C:\Users\Nugi\Csharp_FP\bin\Debug\netcoreapp3.1\Csharp_FP.exe
+C:\Users\Nugi\Csharp_FP\bin\Debug\netcoreapp3.1\Csharp_FP.deps.json
+C:\Users\Nugi\Csharp_FP\bin\Debug\netcoreapp3.1\Csharp_FP.runtimeconfig.json
+C:\Users\Nugi\Csharp_FP\bin\Debug\netcoreapp3.1\Csharp_FP.runtimeconfig.dev.json
+C:\Users\Nugi\Csharp_FP\bin\Debug\netcoreapp3.1\Csharp_FP.dll
+C:\Users\Nugi\Csharp_FP\bin\Debug\netcoreapp3.1\Csharp_FP.pdb
+C:\Users\Nugi\Csharp_FP\obj\Debug\netcoreapp3.1\Csharp_FP.csprojAssemblyReference.cache
+C:\Users\Nugi\Csharp_FP\obj\Debug\netcoreapp3.1\Csharp_FP.AssemblyInfoInputs.cache
+C:\Users\Nugi\Csharp_FP\obj\Debug\netcoreapp3.1\Csharp_FP.AssemblyInfo.cs
+C:\Users\Nugi\Csharp_FP\obj\Debug\netcoreapp3.1\Csharp_FP.dll
+C:\Users\Nugi\Csharp_FP\obj\Debug\netcoreapp3.1\Csharp_FP.pdb
