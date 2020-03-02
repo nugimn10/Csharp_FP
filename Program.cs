@@ -33,7 +33,7 @@ namespace Csharp_FP
             //Nomor 5
             var satu = 1.Convert();
             var belasan = 12.Convert();
-            var puluhan = 33.Convert();
+            var puluhan = 90.Convert();
             Console.WriteLine(puluhan);
 
             //Nomor 6
@@ -91,24 +91,6 @@ namespace Csharp_FP
 
         string words = "";
 
-            if ((number / 1000000) > 0)
-            {
-                words += Convert(number / 1000000) + " juta ";
-                number %= 1000000;
-            }
-
-            if ((number / 1000) > 0)
-            {
-                words += Convert(number / 1000) + " ribu ";
-                number %= 1000;
-            }
-
-            if ((number / 100) > 0)
-            {
-                words += Convert(number / 100) + " ratus ";
-                number %= 100;
-            }
-
             if (number > 0)
             {
                 if (words != "")
@@ -125,7 +107,7 @@ namespace Csharp_FP
                     if ((number % 10) > 0)
                         words += " " + unitsMap[number % 10];
                 }
-                }
+            }
 
             return words;
         }
