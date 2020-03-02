@@ -84,7 +84,7 @@ namespace Csharp_FP
         public static string Convert(this int number)
         {
         if (number == 0)
-            return "zero";
+            return "nol";
 
         if (number < 0)
             return "minus " + Convert(Math.Abs(number));
