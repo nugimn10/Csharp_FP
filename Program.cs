@@ -119,10 +119,10 @@ namespace Csharp_FP
            return result;
         } 
        
-        public static string TrimWords(this string input, int i) 
+        public static string TrimWords(this string inpuut, int i) 
         {
             var result =
-                string.Join(" ", input.Split(' ').ToList().GetRange(0, i));
+                string.Join(" ", inpuut.Split(' ').ToList().GetRange(0, i));
             return result;
         } 
  
